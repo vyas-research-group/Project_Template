@@ -13,7 +13,7 @@ e.g.
 
 Question 1: Which proton in a fluorotelomer alchohol is most readily abstracted by a hydroxyl radical in gas phase?
 *Hydrogens on the fluorinated chain have a lower barier for abstraction than protons on the alcohol head group.*
-![figures/FTA_figure.gif]
+![](figures/FTA_figure.gif)
 
 Question 2: Does ozone lead to interactions with fluorotelomer alcohols in the atmosphere
 

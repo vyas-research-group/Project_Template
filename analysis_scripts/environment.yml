@@ -1,0 +1,3 @@
+this file should show all the dependencies etc required to run your analysis scripts
+if using python, its fairly easy to export your conda env to an environment.yml 
+most other programs have a similar feature

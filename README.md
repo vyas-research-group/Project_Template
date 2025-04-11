@@ -17,7 +17,7 @@ Question 1: Which proton in a fluorotelomer alchohol is most readily abstracted 
 
 Question 2: Does ozone lead to interactions with fluorotelomer alcohols in the atmosphere
 
-# Methods and Worflows
+# Methods and Workflows
 
 This section should essentially be the methods section of your paper. It should contain information such as what software you are using, level of theory you are using, as well as some information on how they are run on wendian or on your computer. 
 
@@ -26,3 +26,7 @@ Outside of the typical methods descriptions you should also include naming conve
 # Common Trouble Shooting
 
 Often working with a new software or in a niche application of a software you may run in to some issues that have a simple fix you wish you had someone explain to you. This is the section to put those for future users if they take over your project or wish to colaborate.
+
+# Archive Info 
+
+Please the log the project start data and the date the project is no longer active an can be archived. This can be a useful place to add additional information about why the project is being archived, or any notes to future students who might pick it up in the future.
